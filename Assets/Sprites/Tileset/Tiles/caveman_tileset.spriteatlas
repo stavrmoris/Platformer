@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: caveman_tileset
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1705587771, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 1550802992, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: -1547305118, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: -1352210348, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 1747683324, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 12234192, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 553292953, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 649246789, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 2076458533, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: -2084191890, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 1882346161, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: -1349691620, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: -1548423909, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: 664563817, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: -347621901, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  - {fileID: -875095336, guid: 70b76e5a2a6c71f408482cdbf2b5cdee, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - caveman_tileset_15
+  - caveman_tileset_14
+  - caveman_tileset_13
+  - caveman_tileset_12
+  - caveman_tileset_11
+  - caveman_tileset_10
+  - caveman_tileset_4
+  - caveman_tileset_5
+  - caveman_tileset_6
+  - caveman_tileset_7
+  - caveman_tileset_0
+  - caveman_tileset_1
+  - caveman_tileset_2
+  - caveman_tileset_3
+  - caveman_tileset_8
+  - caveman_tileset_9
+  m_RenderDataMap: {}
+  m_Tag: caveman_tileset
+  m_IsVariant: 0

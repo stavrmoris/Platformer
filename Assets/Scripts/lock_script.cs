@@ -1,0 +1,1 @@
+using System.Collections;using System.Collections.Generic;using UnityEngine;public class lock_script : MonoBehaviour{public bool open = false;public Rigidbody2D rb;void Update(){if(open){rb.AddForce(Vector3.up * -30);rb.AddForce(Vector3.left * -50);}}}  

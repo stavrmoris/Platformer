@@ -1,0 +1,1155 @@
+fileFormatVersion: 2
+guid: 35d96db4dd2a1a748a1882976e9604d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aivon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -8.5}
+        - {x: -10, y: -8.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 8.5}
+        - {x: -4, y: 12.5}
+        - {x: 1, y: 12.5}
+        - {x: 2, y: 11.5}
+        - {x: 2, y: 5.5}
+        - {x: 2, y: 2.5}
+        - {x: 4, y: 1.5}
+        - {x: 4, y: -2.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -8.5}
+        - {x: 2, y: -8.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5053dc1ed4d37f548bd342fee7a83531
+      internalID: -300911830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -8.5}
+        - {x: -10, y: -8.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 9.5}
+        - {x: -4, y: 13.5}
+        - {x: 1, y: 13.5}
+        - {x: 2, y: 12.5}
+        - {x: 2, y: 5.5}
+        - {x: 2, y: 2.5}
+        - {x: 4, y: 1.5}
+        - {x: 4, y: -2.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -8.5}
+        - {x: 2, y: -8.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b199fd1be0437c428f809dc922a960a
+      internalID: 1042266910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -8.5}
+        - {x: -10, y: -8.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 9.5}
+        - {x: -4, y: 13.5}
+        - {x: 1, y: 13.5}
+        - {x: 2, y: 12.5}
+        - {x: 2, y: 5.5}
+        - {x: 2, y: 4.5}
+        - {x: 3, y: 4.5}
+        - {x: 4, y: 3.5}
+        - {x: 5, y: -0.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -8.5}
+        - {x: 2, y: -8.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063aa07dfa4780a4bb81d2b7b629dda0
+      internalID: -229784141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -7.5}
+        - {x: -10, y: -7.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 8.5}
+        - {x: -4, y: 12.5}
+        - {x: 1, y: 12.5}
+        - {x: 2, y: 11.5}
+        - {x: 2, y: 5.5}
+        - {x: 2, y: 3.5}
+        - {x: 4, y: 2.5}
+        - {x: 4, y: -1.5}
+        - {x: 5, y: -1.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -8.5}
+        - {x: 2, y: -8.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7279c52a9e3910e488c20100d21522a5
+      internalID: -222195369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -8.5}
+        - {x: -10, y: -8.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 8.5}
+        - {x: -4, y: 12.5}
+        - {x: 1, y: 12.5}
+        - {x: 2, y: 11.5}
+        - {x: 2, y: 5.5}
+        - {x: 2, y: 2.5}
+        - {x: 4, y: 1.5}
+        - {x: 4, y: -1.5}
+        - {x: 5, y: -2.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -8.5}
+        - {x: 2, y: -8.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b7a385d9f2dc4c9271e0d400aaef0
+      internalID: -1546484626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -8.5}
+        - {x: -10, y: -8.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 9.5}
+        - {x: -4, y: 13.5}
+        - {x: 1, y: 13.5}
+        - {x: 2, y: 11.5}
+        - {x: 2, y: 5.5}
+        - {x: 3, y: 3.5}
+        - {x: 4, y: 2.5}
+        - {x: 4, y: -1.5}
+        - {x: 5, y: -2.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -8.5}
+        - {x: 2, y: -8.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb83b2a3735a3f4bbe68fec9782240e
+      internalID: -1954031827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -7.5}
+        - {x: -10, y: -7.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 9.5}
+        - {x: -4, y: 13.5}
+        - {x: 1, y: 13.5}
+        - {x: 2, y: 12.5}
+        - {x: 2, y: 5.5}
+        - {x: 3, y: 4.5}
+        - {x: 4, y: 3.5}
+        - {x: 4, y: 1.5}
+        - {x: 4, y: -1.5}
+        - {x: 5, y: -2.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -7.5}
+        - {x: 2, y: -7.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc64b903328ac8c43837fb5d68b3535a
+      internalID: -92079669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -17.5}
+        - {x: -7, y: -12.5}
+        - {x: -6, y: -12.5}
+        - {x: -6, y: -9.5}
+        - {x: -6, y: -8.5}
+        - {x: -10, y: -8.5}
+        - {x: -10, y: -2.5}
+        - {x: -7, y: 2.5}
+        - {x: -7, y: 5.5}
+        - {x: -7, y: 8.5}
+        - {x: -4, y: 12.5}
+        - {x: 1, y: 12.5}
+        - {x: 2, y: 11.5}
+        - {x: 2, y: 5.5}
+        - {x: 2, y: 2.5}
+        - {x: 4, y: 1.5}
+        - {x: 4, y: -1.5}
+        - {x: 5, y: -2.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: -8.5}
+        - {x: 2, y: -8.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b37710c85a3a24e855729d9e40149e
+      internalID: 288350553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -17.5}
+        - {x: -7, y: -17.5}
+        - {x: -3, y: -7.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: 2.5}
+        - {x: 1, y: 4.5}
+        - {x: 1, y: 7.5}
+        - {x: 4, y: 11.5}
+        - {x: 9, y: 11.5}
+        - {x: 10, y: 10.5}
+        - {x: 10, y: 5.5}
+        - {x: 9, y: 4.5}
+        - {x: 7, y: -1.5}
+        - {x: 6, y: -4.5}
+        - {x: 6, y: -6.5}
+        - {x: 7, y: -9.5}
+        - {x: 3, y: -13.5}
+        - {x: 1, y: -12.5}
+        - {x: -1, y: -11.5}
+        - {x: -4, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71855c8c856bc4a4694a24f009bad02a
+      internalID: 384314973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -13.5}
+        - {x: -5, y: -11.5}
+        - {x: -6, y: -11.5}
+        - {x: -6, y: -9.5}
+        - {x: -3, y: -8.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: 2.5}
+        - {x: 1, y: 4.5}
+        - {x: 1, y: 6.5}
+        - {x: 4, y: 10.5}
+        - {x: 9, y: 10.5}
+        - {x: 10, y: 9.5}
+        - {x: 10, y: 3.5}
+        - {x: 9, y: 3.5}
+        - {x: 7, y: -1.5}
+        - {x: 6, y: -4.5}
+        - {x: 6, y: -6.5}
+        - {x: 6, y: -8.5}
+        - {x: 7, y: -11.5}
+        - {x: 8, y: -16.5}
+        - {x: 8, y: -17.5}
+        - {x: 6, y: -17.5}
+        - {x: 5, y: -16.5}
+        - {x: 4, y: -13.5}
+        - {x: 1, y: -12.5}
+        - {x: -1, y: -12.5}
+        - {x: -2, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d40f531494894ca975db4f2e3a85b
+      internalID: 1280281453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -13.5}
+        - {x: -3, y: -11.5}
+        - {x: -1, y: -11.5}
+        - {x: -1, y: -8.5}
+        - {x: -1, y: -8.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: 2.5}
+        - {x: 1, y: 2.5}
+        - {x: 1, y: 4.5}
+        - {x: 1, y: 4.5}
+        - {x: 4, y: 8.5}
+        - {x: 9, y: 8.5}
+        - {x: 10, y: 7.5}
+        - {x: 10, y: 1.5}
+        - {x: 9, y: 1.5}
+        - {x: 6, y: -1.5}
+        - {x: 6, y: -4.5}
+        - {x: 5, y: -6.5}
+        - {x: 5, y: -9.5}
+        - {x: 5, y: -12.5}
+        - {x: 4, y: -12.5}
+        - {x: 4, y: -16.5}
+        - {x: 5, y: -16.5}
+        - {x: 5, y: -17.5}
+        - {x: 2, y: -17.5}
+        - {x: 1, y: -13.5}
+        - {x: -2, y: -13.5}
+        - {x: -2, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6584a8fa05c52743bb201e3fda047ed
+      internalID: -282627621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -17.5}
+        - {x: -7, y: -17.5}
+        - {x: -7, y: -14.5}
+        - {x: -5, y: -12.5}
+        - {x: -4, y: -10.5}
+        - {x: -3, y: -8.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: 2.5}
+        - {x: 1, y: 4.5}
+        - {x: 1, y: 6.5}
+        - {x: 3, y: 11.5}
+        - {x: 8, y: 11.5}
+        - {x: 9, y: 10.5}
+        - {x: 9, y: 4.5}
+        - {x: 8, y: 4.5}
+        - {x: 8, y: 2.5}
+        - {x: 9, y: -0.5}
+        - {x: 9, y: -2.5}
+        - {x: 6, y: -2.5}
+        - {x: 6, y: -6.5}
+        - {x: 6, y: -8.5}
+        - {x: 5, y: -11.5}
+        - {x: 5, y: -11.5}
+        - {x: 5, y: -11.5}
+        - {x: 5, y: -11.5}
+        - {x: 3, y: -11.5}
+        - {x: 3, y: -13.5}
+        - {x: 1, y: -12.5}
+        - {x: -1, y: -12.5}
+        - {x: -3, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857994343be64b443b781723c868b36c
+      internalID: -1165745472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -13.5}
+        - {x: -6, y: -11.5}
+        - {x: -6, y: -9.5}
+        - {x: -3, y: -8.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: 2.5}
+        - {x: 0, y: 3.5193043}
+        - {x: 0, y: 6.5}
+        - {x: 1, y: 7.5}
+        - {x: 3, y: 10.5}
+        - {x: 8, y: 10.5}
+        - {x: 9, y: 9.5}
+        - {x: 9, y: 3.5}
+        - {x: 8, y: 3.5}
+        - {x: 7, y: -1.5}
+        - {x: 6, y: -4.5}
+        - {x: 6, y: -6.5}
+        - {x: 6, y: -9.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: -16.5}
+        - {x: 8, y: -17.5}
+        - {x: 6, y: -17.5}
+        - {x: 4, y: -13.5}
+        - {x: -2, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc55fb319ad4564abb7d37ffdc9d177
+      internalID: -1759373171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: -11.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -6.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: 2.5}
+        - {x: 1, y: 4.5}
+        - {x: 2, y: 5.5}
+        - {x: 4, y: 8.5}
+        - {x: 9, y: 8.5}
+        - {x: 10, y: 7.5}
+        - {x: 10, y: 1.5}
+        - {x: 9, y: 0.5}
+        - {x: 7, y: -1.5}
+        - {x: 6, y: -4.5}
+        - {x: 5, y: -6.5}
+        - {x: 5, y: -12.5}
+        - {x: 4, y: -12.5}
+        - {x: 4, y: -16.5}
+        - {x: 5, y: -16.5}
+        - {x: 5, y: -17.5}
+        - {x: 2, y: -17.5}
+        - {x: 2, y: -13.5}
+        - {x: -3, y: -13.5}
+        - {x: -3, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95da79b0fc6568e418d3381153de1d55
+      internalID: 2057544786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -17.5}
+        - {x: -6, y: -17.5}
+        - {x: -6, y: -14.5}
+        - {x: -4, y: -14.5}
+        - {x: -4, y: -9.5}
+        - {x: -2, y: -7.5}
+        - {x: -2, y: -7.5}
+        - {x: -2, y: -7.5}
+        - {x: -3, y: -3.5}
+        - {x: -4, y: 0.5}
+        - {x: -4, y: 0.5}
+        - {x: -1, y: 7.5}
+        - {x: 4, y: 7.5}
+        - {x: 4, y: 7.5}
+        - {x: 4, y: 7.5}
+        - {x: 5, y: 6.5}
+        - {x: 5, y: 0.5}
+        - {x: 4, y: -0.5}
+        - {x: 3, y: -8.5}
+        - {x: 4, y: -9.5}
+        - {x: 4, y: -17.5}
+        - {x: 1, y: -17.5}
+        - {x: 1, y: -16.5}
+        - {x: -2, y: -16.5}
+      - - {x: 1, y: -17.5}
+        - {x: 1, y: -17.5}
+        - {x: 1, y: -17.5}
+        - {x: 1, y: -17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9fbed7dd96a054f95459319707b323
+      internalID: 934928373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -17.5}
+        - {x: -6, y: -17.5}
+        - {x: -6, y: -14.5}
+        - {x: -4, y: -14.5}
+        - {x: -4, y: -9.5}
+        - {x: -2, y: -7.5}
+        - {x: -2, y: -7.5}
+        - {x: -2, y: -7.5}
+        - {x: -3, y: -3.5}
+        - {x: -4, y: 0.5}
+        - {x: -4, y: 0.5}
+        - {x: -1, y: 5.5}
+        - {x: 4, y: 5.5}
+        - {x: 4, y: 5.5}
+        - {x: 4, y: 5.5}
+        - {x: 5, y: 4.5}
+        - {x: 5, y: -1.5}
+        - {x: 4, y: -1.5}
+        - {x: 3, y: -8.5}
+        - {x: 4, y: -9.5}
+        - {x: 4, y: -17.5}
+        - {x: 1, y: -17.5}
+        - {x: 1, y: -16.5}
+        - {x: -2, y: -16.5}
+      - - {x: 1, y: -17.5}
+        - {x: 1, y: -17.5}
+        - {x: 1, y: -17.5}
+        - {x: 1, y: -17.5}
+      - - {x: 5, y: -1.5}
+        - {x: 5, y: -1.5}
+        - {x: 5, y: -1.5}
+        - {x: 5, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e2b8a7e3603842ae75c276f47ba97
+      internalID: -1957088248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -13.5}
+        - {x: -7, y: -10.5}
+        - {x: -4, y: -7.5}
+        - {x: -4, y: -4.5}
+        - {x: -2, y: -3.5}
+        - {x: -5, y: 6.5}
+        - {x: -5, y: 9.5}
+        - {x: -2, y: 13.5}
+        - {x: 3, y: 13.5}
+        - {x: 4, y: 12.5}
+        - {x: 4, y: 7.5}
+        - {x: 4, y: -0.5}
+        - {x: 5, y: -3.5}
+        - {x: 5, y: -5.5}
+        - {x: 1, y: -9.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe897d9aab3b3bd4f97da941758848c4
+      internalID: -743006267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -8.5}
+        - {x: -5, y: -8.5}
+        - {x: -5, y: -5.5}
+        - {x: -2, y: -1.5}
+        - {x: -2, y: 4.5}
+        - {x: -5, y: 7.5}
+        - {x: -5, y: 10.5}
+        - {x: -2, y: 14.5}
+        - {x: 3, y: 14.5}
+        - {x: 4, y: 13.5}
+        - {x: 4, y: 0.5}
+        - {x: 4, y: -1.5}
+        - {x: 5, y: -2.5}
+        - {x: 5, y: -4.5}
+        - {x: 2, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa1d6291437c44418d6b126dca11664
+      internalID: 1018686490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -8.5}
+        - {x: -5, y: -8.5}
+        - {x: -5, y: -5.5}
+        - {x: -2, y: -1.5}
+        - {x: -2, y: 4.5}
+        - {x: -5, y: 7.5}
+        - {x: -5, y: 10.5}
+        - {x: -2, y: 14.5}
+        - {x: 3, y: 14.5}
+        - {x: 4, y: 13.5}
+        - {x: 4, y: 0.5}
+        - {x: 4, y: -1.5}
+        - {x: 5, y: -2.5}
+        - {x: 5, y: -4.5}
+        - {x: 2, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5befa2c2e07afe4abc7c66101885a90
+      internalID: 397332503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -7.5}
+        - {x: -2, y: -10.5}
+        - {x: -3, y: -10.5}
+        - {x: -3, y: -3.5}
+        - {x: -3, y: 4.5}
+        - {x: -5, y: 6.5}
+        - {x: -5, y: 9.5}
+        - {x: -2, y: 13.5}
+        - {x: 3, y: 13.5}
+        - {x: 4, y: 12.5}
+        - {x: 4, y: 6.5}
+        - {x: 3, y: 6.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -1.5}
+        - {x: 2, y: -3.5}
+        - {x: 4, y: -4.5}
+        - {x: 7, y: -11.5}
+        - {x: 5, y: -11.5}
+        - {x: 2, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765f3bf48017ea4bbd070691e111cb0
+      internalID: 109828473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -11.5}
+        - {x: 4, y: -10.5}
+        - {x: -2, y: -10.5}
+        - {x: -3, y: -10.5}
+        - {x: -3, y: 6.5}
+        - {x: -5, y: 6.5}
+        - {x: -5, y: 9.5}
+        - {x: -2, y: 13.5}
+        - {x: 3, y: 13.5}
+        - {x: 4, y: 12.5}
+        - {x: 4, y: 6.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -1.5}
+        - {x: 3, y: -3.5}
+        - {x: 7, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05a23082ac6504ba8ee4c4303bc0b8
+      internalID: 65833015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aivon_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -11.5}
+        - {x: 4, y: -10.5}
+        - {x: -2, y: -10.5}
+        - {x: -3, y: -10.5}
+        - {x: -3, y: 6.5}
+        - {x: -5, y: 6.5}
+        - {x: -5, y: 9.5}
+        - {x: -2, y: 13.5}
+        - {x: 3, y: 13.5}
+        - {x: 4, y: 12.5}
+        - {x: 4, y: 6.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -1.5}
+        - {x: 3, y: -3.5}
+        - {x: 7, y: -11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a81a0ddfe30644f93de84fed68c39d
+      internalID: 1645640503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aivon_0: -300911830
+      Aivon_1: 1042266910
+      Aivon_10: -282627621
+      Aivon_11: -1165745472
+      Aivon_12: -1759373171
+      Aivon_13: 2057544786
+      Aivon_14: 934928373
+      Aivon_15: -1957088248
+      Aivon_16: -743006267
+      Aivon_17: 1018686490
+      Aivon_18: 397332503
+      Aivon_19: 109828473
+      Aivon_2: -229784141
+      Aivon_20: 65833015
+      Aivon_21: 1645640503
+      Aivon_3: -222195369
+      Aivon_4: -1546484626
+      Aivon_5: -1954031827
+      Aivon_6: -92079669
+      Aivon_7: 288350553
+      Aivon_8: 384314973
+      Aivon_9: 1280281453
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
